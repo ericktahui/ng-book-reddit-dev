@@ -1,8 +1,7 @@
 
 # Page Published
 
-This is a small example of the use of Angular 
-We can see how this code works in tjr following link:
+This is a small example of Angular. We can see how this code works in the following link:
 
 https://ericktahui.github.io/ng-book-reddit-prod/
 
