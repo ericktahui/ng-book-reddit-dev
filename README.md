@@ -1,3 +1,14 @@
+
+# Page Published
+
+This is a small example of the use of Angular 
+We can see how this code works in tjr following link:
+
+https://ericktahui.github.io/ng-book-reddit-prod/
+
+
+
+
 # AngularReddit
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.4.
